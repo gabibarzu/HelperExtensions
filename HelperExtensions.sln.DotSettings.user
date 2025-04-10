@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=be263d61_002D59c7_002D4ccf_002D9799_002Df6f716b2c667/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Given_ValueAndInterval_When_IsBetween_Then_ShouldReturnExpectedResult" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::B9C72DAB-8CEC-422B-A314-F582ECDD19EC::net8.0::HelperExtensions.Tests.IntExtensionsTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B9C72DAB-8CEC-422B-A314-F582ECDD19EC::net8.0::HelperExtensions.Tests.DateTimeExtensionsTests.Given_ValueAndInterval_When_IsInRange_Then_ShouldReturnExpectedResult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B9C72DAB-8CEC-422B-A314-F582ECDD19EC::net8.0::HelperExtensions.Tests.DateTimeExtensionsTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B9C72DAB-8CEC-422B-A314-F582ECDD19EC::net8.0::HelperExtensions.Tests.DecimalExtensionsTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B9C72DAB-8CEC-422B-A314-F582ECDD19EC::net8.0::HelperExtensions.Tests.DictionaryExtensionsTests.GetValueOrDefault_ReturnsExpectedValue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B9C72DAB-8CEC-422B-A314-F582ECDD19EC::net8.0::HelperExtensions.Tests.DictionaryExtensionsTests.GetValueOrDefault_ReturnsExpectedValue2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B9C72DAB-8CEC-422B-A314-F582ECDD19EC::net8.0::HelperExtensions.Tests.DictionaryExtensionsTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
